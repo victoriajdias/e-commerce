@@ -1,0 +1,58 @@
+/* Home.css */
+.HomeContainer {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .HomeContent {
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  .textoprincipal{
+    color:#011141 ;
+  }
+  .cabeçalho{
+    background-color:#f8f8f8;
+    border:3px solid #686666;
+    align-items: center;
+  }
+  .button{
+    background-color: #000924;
+  color: #f8f7f7;
+  border-radius:15px;
+  margin:32px auto;
+  display: block;
+  font-family: times; 
+  }
+  .button2{
+    background-color: #000924;
+    color:#f8f7f7;
+    border-radius:15px;
+    margin-left: 8px;
+    font-family: times; 
+  }
+  .campodtexto2{
+    margin-left: 60px;
+  
+  }
+  .textoprincipal{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+  }
+  .button2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+  .email{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .senha{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .estado{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
